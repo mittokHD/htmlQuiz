@@ -9,28 +9,44 @@
     <link rel="stylesheet" href="style.css" />
   </head>
 
-  let json =
-
-  <!-- onload="gameLoop();" -->
-
   <body class="body">
     <div class="box" id="questionHeader">
       <p>Die Frage lautet</p>
       <p>Hier kommt die Frage rein</p>
     </div>
     <div class="quizContainer">
-      <div1 id="anwser1" class="quizItem" style="background-color: red">
-        test
-      </div1>
-      <div2 id="anwser2" class="quizItem" style="background-color: blue">
+      <button1
+        onclick="checkIsRigh(getElementById.innerHTML)"
+        id="anwser1"
+        class="quizItem"
+        style="background-color: red"
+      >
+        1
+      </button1>
+      <button2
+        onclick="checkIsRigh(getElementById.innerHTML)"
+        id="anwser2"
+        class="quizItem"
+        style="background-color: blue"
+      >
         2
-      </div2>
-      <div3 id="anwser3" class="quizItem" style="background-color: green">
+      </button2>
+      <button3
+        onclick="checkIsRigh(getElementById.innerHTML)"
+        id="anwser3"
+        class="quizItem"
+        style="background-color: green"
+      >
         3
-      </div3>
-      <div4 id="anwser4" class="quizItem" style="background-color: yellow">
+      </button3>
+      <button4
+        onclick="checkIsRigh(getElementById.innerHTML)"
+        id="anwser4"
+        class="quizItem"
+        style="background-color: yellow"
+      >
         4
-      </div4>
+      </button4>
     </div>
 
     <script>
@@ -62,6 +78,18 @@
         document.getElementById("anwser2").textContent = answers[1];
         document.getElementById("anwser3").textContent = answers[2];
         document.getElementById("anwser4").textContent = answers[3];
+      }
+
+      function checkIsRigh(answer) {
+        if (anwser == correct) {
+          console.log("Right");
+          return;
+        }
+        if (anwser != correct) {
+          console.log("False");
+          return;
+        }
+        console.log("Input Error");
       }
 
       // Aufruf der Funktion
