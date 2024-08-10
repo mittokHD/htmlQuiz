@@ -1,0 +1,152 @@
+[
+    {
+        "question": "Was ist die Hauptstadt von Deutschland?",
+        "answer": [
+            "Berlin",
+            "Wolfsburg",
+            "Hamburg",
+            "Stade"
+        ],
+        "correct": "Berlin"
+    },
+    {
+        "question": "Welches ist das größte Land der Welt nach Fläche?",
+        "answer": [
+            "China",
+            "USA",
+            "Russland",
+            "Kanada"
+        ],
+        "correct": "Russland"
+    },
+    {
+        "question": "Welches chemische Element hat das Symbol 'O'?",
+        "answer": [
+            "Osmium",
+            "Oxygen",
+            "Gold",
+            "Silber"
+        ],
+        "correct": "Oxygen"
+    },
+    {
+        "question": "Wie viele Kontinente gibt es auf der Erde?",
+        "answer": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": "7"
+    },
+    {
+        "question": "Wer schrieb 'Die Verwandlung'?",
+        "answer": [
+            "Hermann Hesse",
+            "Thomas Mann",
+            "Franz Kafka",
+            "Bertolt Brecht"
+        ],
+        "correct": "Franz Kafka"
+    },
+    {
+        "question": "Welcher Planet ist der größte in unserem Sonnensystem?",
+        "answer": [
+            "Erde",
+            "Jupiter",
+            "Mars",
+            "Saturn"
+        ],
+        "correct": "Jupiter"
+    },
+    {
+        "question": "Wie viele Bundesländer hat Deutschland?",
+        "answer": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "correct": "16"
+    },
+    {
+        "question": "Wer malte die 'Mona Lisa'?",
+        "answer": [
+            "Vincent van Gogh",
+            "Claude Monet",
+            "Leonardo da Vinci",
+            "Pablo Picasso"
+        ],
+        "correct": "Leonardo da Vinci"
+    },
+    {
+        "question": "Welche Farbe hat die Sonne, wenn man sie aus dem Weltraum betrachtet?",
+        "answer": [
+            "Rot",
+            "Gelb",
+            "Weiß",
+            "Blau"
+        ],
+        "correct": "Weiß"
+    },
+    {
+        "question": "Wie heißt die größte Insel der Welt?",
+        "answer": [
+            "Madagaskar",
+            "Borneo",
+            "Grönland",
+            "Neuguinea"
+        ],
+        "correct": "Grönland"
+    },
+    {
+        "question": "In welchem Jahr begann der Zweite Weltkrieg?",
+        "answer": [
+            "1914",
+            "1939",
+            "1945",
+            "1961"
+        ],
+        "correct": "1939"
+    },
+    {
+        "question": "Was ist die Hauptstadt von Australien?",
+        "answer": [
+            "Sydney",
+            "Melbourne",
+            "Canberra",
+            "Brisbane"
+        ],
+        "correct": "Canberra"
+    },
+    {
+        "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Spielfeld?",
+        "answer": [
+            "9",
+            "10",
+            "11",
+            "12"
+        ],
+        "correct": "11"
+    },
+    {
+        "question": "Wer erfand das Telefon?",
+        "answer": [
+            "Thomas Edison",
+            "Alexander Graham Bell",
+            "Nikola Tesla",
+            "Guglielmo Marconi"
+        ],
+        "correct": "Alexander Graham Bell"
+    },
+    {
+        "question": "Welches Land ist bekannt für den Eiffelturm?",
+        "answer": [
+            "Italien",
+            "Deutschland",
+            "Frankreich",
+            "Spanien"
+        ],
+        "correct": "Frankreich"
+    }
+]
